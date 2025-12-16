@@ -2,5 +2,6 @@ venv/
 faces/
 client_rsa_keys/
 users.json
+rsa_keys.json
 __pycache__/
 *.pyc
