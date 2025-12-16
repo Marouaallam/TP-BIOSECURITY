@@ -1,0 +1,6 @@
+venv/
+faces/
+client_rsa_keys/
+users.json
+__pycache__/
+*.pyc
